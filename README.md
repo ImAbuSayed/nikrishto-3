@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nikrishto-3/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Nikrishto 3](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nikrishto-3/) |
+| **Get License** | [Request Licensing for Nikrishto 3](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nikrishto-3/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অন্ধকারের বুক চিরে আজ নামলো প্রেমের রাত
+> শিহরণের উষ্ণ স্রোতে রাখো আমার হাত
+> বুকের ভেতর জ্বলছে আগুন নিভিয়ে দাও তুমি
+> হারিয়ে যাওয়ার নেশায় মাতাল আজ এ মরুভূমি
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
