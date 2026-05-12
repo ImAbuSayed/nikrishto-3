@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nikrishto 3
+
+This log tracks the cryptographic history and versioning for the song **Nikrishto 3** (nikrishto-3).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-12T09:18:55.565390 | `v1` | `ad75a875fd67b8ce06e24ff69dcbf1197b90ac562393b3b7d034f75875416cd4` | `a16fdd172e9dec43fc232b2303b091fc56b380823db721176b04c8016c274c5a` | `2026-05-12_nikrishto-3-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
